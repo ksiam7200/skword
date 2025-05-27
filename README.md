@@ -3,13 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="google-adsense-account" content="ca-pub-3822467696455800">
   <title>Bangla-English Search</title>
   <link rel="stylesheet" href="style.csss.css">
  <head>
-  ...
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-     data-ad-client="ca-pub-xxxxxxxxxxxxxxxx"></script>
-  ...
+
 </head> 
   <style>
     body {
